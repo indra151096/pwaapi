@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Pied avocet","category":"Aquamarine"},
+{"id":2,"name":"California sea lion","category":"Indigo"},
+{"id":3,"name":"Asian elephant","category":"Pink"},
+{"id":4,"name":"Sifaka, verreaux's","category":"Green"},
+{"id":5,"name":"Pintail, bahama","category":"Purple"},
+{"id":6,"name":"Dragon, netted rock","category":"Khaki"},
+{"id":7,"name":"Chestnut weaver","category":"Puce"},
+{"id":8,"name":"Ibis, glossy","category":"Maroon"},
+{"id":9,"name":"Sea birds (unidentified)","category":"Yellow"},
+{"id":10,"name":"Meerkat, red","category":"Aquamarine"},
+{"id":11,"name":"Lynx, african","category":"Crimson"},
+{"id":12,"name":"Mississippi alligator","category":"Turquoise"},
+{"id":13,"name":"Booby, blue-faced","category":"Blue"},
+{"id":14,"name":"Nubian bee-eater","category":"Yellow"},
+{"id":15,"name":"Elk, Wapiti","category":"Crimson"},
+{"id":16,"name":"Squirrel, african bush","category":"Fuscia"},
+{"id":17,"name":"Miner's cat","category":"Violet"},
+{"id":18,"name":"Purple moorhen","category":"Khaki"},
+{"id":19,"name":"Richardson's ground squirrel","category":"Turquoise"},
+{"id":20,"name":"Nile crocodile","category":"Crimson"}
+]
+}
